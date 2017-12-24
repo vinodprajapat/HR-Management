@@ -1,0 +1,16 @@
+SMAP
+add_005femployee_jsp.java
+JSP
+*S JSP
+*F
++ 0 add_employee.jsp
+add_employee.jsp
++ 1 Menu.jsp
+Menu.jsp
+*L
+1,5:49
+1#1,148:54
+149,2:203
+150,4:205
+5#0,256:208
+*E
